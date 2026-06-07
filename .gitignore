@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+jobs/
+local-calls/
+state/
+profile/
+transcript-outbox/
+recordings/
+*.log
+*.wav
+*.mp3
+*.m4a
